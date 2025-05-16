@@ -1,15 +1,15 @@
 {
-  "name": "black-waves",
-  "displayName": "Black Waves",
-  "description": "A wavy dark theme for VSCode",
-  "version": "1.0.2",
-  "publisher": "orhun",
+  "name": "black-waves-altered",
+  "displayName": "Black Waves Altered",
+  "description": "A wavy dark theme for VSCode, altered version. Originally from orhun.",
+  "version": "1.0.3",
+  "publisher": "SamuelArdi",
   "author": {
-    "name": "orhun",
-    "email": "orhunparmaksiz@gmail.com",
-    "url": "https://github.com/orhun"
+    "name": "SamuelArdi",
+    "email": "fiicery.work@gmail.com",
+    "url": "https://github.com/SamuelArdi"
   },
-  "repository": "https://github.com/orhun/Black-Waves",
+  "repository": "https://github.com/SamuelArdi/Black-Waves-Altered",
   "license": "GPL-3.0-or-later",
   "keywords": [
     "dark",
@@ -32,7 +32,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Black Waves",
+        "label": "Black Waves Altered",
         "uiTheme": "vs-dark",
         "path": "./themes/black-waves-color-theme.json"
       }
