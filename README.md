@@ -20,7 +20,7 @@ Clone the repository into VSCode `extensions` folder and restart the editor.
 
 ### OpenVSX
 
-Black Waves is also available on [Open VSX Registry](https://open-vsx.org/extension/orhun/black-waves).
+The original Black Waves is available on [Open VSX Registry](https://open-vsx.org/extension/orhun/black-waves).
 
 ## License
 
