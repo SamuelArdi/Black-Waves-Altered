@@ -1,7 +1,5 @@
 # Black Waves Theme for VSCode
 
-[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/orhun.black-waves.svg?style=flat&labelColor=000000&color=303030)](https://marketplace.visualstudio.com/items?itemName=orhun.black-waves) [![Installs](https://img.shields.io/visual-studio-marketplace/d/orhun.black-waves.svg?style=flat&labelColor=000000&color=303030)](https://marketplace.visualstudio.com/items?itemName=orhun.black-waves) [![Rating](https://img.shields.io/visual-studio-marketplace/stars/orhun.black-waves.svg?style=flat&labelColor=000000&color=303030)](https://marketplace.visualstudio.com/items?itemName=orhun.black-waves)
-
 ![Demo](https://raw.githubusercontent.com/orhun/Black-Waves/master/images/demo.jpg)
 
 ## Description
