@@ -5,12 +5,12 @@
 ## Description
 
 <!-- Eyes go brrr -->
-Black Waves is a dark theme with black + white and slightly {blue,green}ish colors. Use it with [Keen neutral icon theme](https://marketplace.visualstudio.com/items?itemName=keenethics.keen-neutral-icon-theme) for ultimate concentration after instant blindness.  
+Black Waves is a dark theme with black + white and slightly {purple, white} ish colors. Use it with [Keen neutral icon theme](https://marketplace.visualstudio.com/items?itemName=keenethics.keen-neutral-icon-theme) for ultimate concentration after instant blindness.  
 Originally from [orhun's Black Waves Theme](https://github.com/orhun/Black-Waves)
 
 ## Installation
 
-Download the .vsix file from the [releases]() page.
+Download the .vsix file from the [releases](https://github.com/SamuelArdi/Black-Waves-Altered/releases) page.
 
 ## License
 
