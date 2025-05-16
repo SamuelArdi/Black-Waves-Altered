@@ -10,15 +10,7 @@ Originally from [orhun's Black Waves Theme](https://github.com/orhun/Black-Waves
 
 ## Installation
 
-Use the extensions tab within VSCode, search for "Black Waves" and then click the <s>regret</s> install button.
-
-### Manual
-
-Clone the repository into VSCode `extensions` folder and restart the editor.
-
-### OpenVSX
-
-The original Black Waves is available on [Open VSX Registry](https://open-vsx.org/extension/orhun/black-waves).
+Download the .vsix file from the [releases]() page.
 
 ## License
 
