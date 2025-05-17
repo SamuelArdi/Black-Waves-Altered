@@ -246,8 +246,9 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#FFFFFF"
-      }
+        // "foreground": "#FFFFFF"
+        "foreground": "#e7e1d3"
+    }
     },
     {
       "name": "Colors",
@@ -265,9 +266,11 @@
     },
     {
       "name": "Keyword, Storage",
-      "scope": ["keyword", "storage.type", "storage.modifier"],
+      // "scope": ["keyword", "storage.type", "storage.modifier"],
+      "scope": ["storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#969696"
+        // "foreground": "#969696"
+        "foreground": "#a9a6c4"
       }
     },
     {
@@ -311,7 +314,8 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#c4bdff" // changed to my favorite color
+        // "foreground": "#c4bdff"
+        "foreground": "#8f8f8f",
       }
     },
     {
@@ -372,7 +376,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#969696"
+        "foreground": "#cadbcf"
       }
     },
     {
