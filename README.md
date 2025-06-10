@@ -21,4 +21,4 @@ GNU General Public License ([v3](https://www.gnu.org/licenses/gpl.txt))
 
 ## Copyright
 
-Copyright (c) 2020-2023, [SamuelArdi](https://www.github.com/SamuelArdi)
+Copyright (c) 2020-2025, [SamuelArdi](https://www.github.com/SamuelArdi)
