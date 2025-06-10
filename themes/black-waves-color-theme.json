@@ -247,7 +247,9 @@
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
         // "foreground": "#FFFFFF"
-        "foreground": "#e7e1d3"
+        // "foreground": "#e7e1d3" up to date version
+        // "foreground": "#ececec",
+        "foreground": "#dbdbdb"
     }
     },
     {
@@ -270,7 +272,8 @@
       "scope": ["storage.type", "storage.modifier"],
       "settings": {
         // "foreground": "#969696"
-        "foreground": "#a9a6c4"
+        "foreground": "#a9a6c4",
+        "fontStyle": "italic"
       }
     },
     {
@@ -315,7 +318,8 @@
       ],
       "settings": {
         // "foreground": "#c4bdff"
-        "foreground": "#8f8f8f",
+        //"foreground": "#8f8f8f", up to date version
+        "foreground": "#7c8575",
       }
     },
     {
@@ -376,7 +380,8 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#cadbcf"
+        // "foreground": "#cadbcf" up to date version
+        "foreground": "#ececec",
       }
     },
     {
