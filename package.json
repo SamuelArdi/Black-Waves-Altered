@@ -1,8 +1,8 @@
 {
-  "name": "black-waves-altered",
-  "displayName": "Black Waves Altered",
-  "description": "A wavy dark theme for VSCode, altered version. Originally from orhun.",
-  "version": "1.0.2",
+  "name": "faux-noir-et-blanc",
+  "displayName": "Faux Noir Et Blanc",
+  "description": "A Black & White with a drop of color.",
+  "version": "1.0.3",
   "publisher": "SamuelArdi",
   "author": {
     "name": "SamuelArdi",
@@ -15,7 +15,6 @@
     "dark",
     "black",
     "contrast",
-    "waves",
     "theme"
   ],
   "icon": "images/icon.png",

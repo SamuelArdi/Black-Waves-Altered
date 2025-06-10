@@ -1,6 +1,6 @@
 # Black Waves Theme for VSCode
 
-![Demo](https://raw.githubusercontent.com/orhun/Black-Waves/master/images/demo.jpg)
+![Demo](https://github.com/SamuelArdi/Black-Waves-Altered/blob/master/images/demo.png)
 
 ## Description
 

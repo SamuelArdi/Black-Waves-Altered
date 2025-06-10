@@ -4,6 +4,12 @@ All notable changes to the "black-waves" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.3] - 2025-6-10
+
+- changed variables color
+- changed function, special method color
+- changed types color
+
 ## [1.0.2] - 2025-?-??
 
 - changed basically the entire theme, I also forgot when this got updated. so it will remain as ??
