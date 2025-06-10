@@ -1,6 +1,6 @@
 # Faux Noir et Blanc
 
-![Demo](https://github.com/SamuelArdi/Black-Waves-Altered/blob/master/images/demo.png)
+![Demo](/images/demo.png)
 
 ## Description
 
