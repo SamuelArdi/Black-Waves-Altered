@@ -15,6 +15,10 @@ The main difference from orhun's is the use of colors, but staying true to the o
 
 Download the .vsix file from the [releases](https://github.com/SamuelArdi/Black-Waves-Altered/releases) page.
 
+Download from the official [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SamuelArdi.faux-noir-et-blanc)
+
+Open VSX page will be opened soon
+
 ## License
 
 GNU General Public License ([v3](https://www.gnu.org/licenses/gpl.txt))
