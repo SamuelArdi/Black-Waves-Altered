@@ -7,7 +7,7 @@
 <!-- Eyes go brrr -->
 Faux Noir et Blanc is a dark theme with the main focus of black and white colors. Use it with [Keen neutral icon theme](https://marketplace.visualstudio.com/items?itemName=keenethics.keen-neutral-icon-theme) for ultimate concentration after instant blindness.  
 
-Originally from [orhun's Black Waves Theme](https://github.com/orhun/Black-Waves)
+Originally from [orhun's Black Waves Theme](https://github.com/orhun/Black-Waves).
 
 The main difference from orhun's is the use of colors, but staying true to the original theme's vision by adding the bare minimum amount of colors.
 

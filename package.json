@@ -9,7 +9,7 @@
     "email": "fiicery.work@gmail.com",
     "url": "https://github.com/SamuelArdi"
   },
-  "repository": "https://github.com/SamuelArdi/Black-Waves-Altered",
+  "repository": "https://github.com/SamuelArdi/Faux-Noir-et-Blanc",
   "license": "GPL-3.0-or-later",
   "keywords": [
     "dark",
@@ -28,13 +28,15 @@
   "categories": [
     "Themes"
   ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Black Waves Altered",
-        "uiTheme": "vs-dark",
-        "path": "./themes/black-waves-color-theme.json"
+  "__comment__": {
+    "contributes": {
+        "themes": [
+          {
+            "label": "Black Waves Altered",
+            "uiTheme": "vs-dark",
+            "path": "./themes/black-waves-color-theme.json"
+          }
+        ]
       }
-    ]
   }
 }
